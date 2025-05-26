@@ -1,0 +1,8 @@
+Analysis_Type,Metric,Value,Interpretation
+Dataset Summary,Sample Size,607.0,607 counties
+Correlation Analysis,Correlation Coefficient,-0.0249608731193012,Negative
+Correlation Analysis,Correlation P-value,0.5393486287403807,Not significant
+Correlation Analysis,R-squared,0.0006230451868778532,0.1% variance explained
+Hypothesis Testing,T-statistic,-0.8164323264132964,Negative difference
+Hypothesis Testing,T-test P-value,0.4145742584114477,Not significant
+Hypothesis Testing,Effect Size (Cohen's d),-0.06627602172589286,Small effect
